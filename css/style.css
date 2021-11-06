@@ -92,3 +92,11 @@ hr.rounded {
     border-radius: 5px;
     text-align: center;
   }
+
+  .Selfies {
+      margin: 2em;
+  }
+
+  #selfiePanel {
+      text-align: center;
+  }
