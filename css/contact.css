@@ -42,3 +42,11 @@
 .contact_form_text:focus{
     box-shadow: 0 0 10px 4px #98C1D9;
 }
+
+label {
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    font-family: Verdana, sans-serif;
+}
