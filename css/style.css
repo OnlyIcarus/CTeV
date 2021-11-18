@@ -9,7 +9,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #EE6C4D;
+    background-color: #3d5a80;
     width: 100%;
 }
 
@@ -18,8 +18,9 @@ li {
 }
 
 li a {
-    display: block;
-    color: #111;
+    display: inline-block;
+    margin: 0px;
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 1em 2em;
     text-decoration: none;
@@ -31,8 +32,7 @@ li a {
   }
 
 #navigation {
-    float: right;
-    width: 75%;
+    width: 100%;
     position: absolute;
     bottom: 0;
     margin-bottom: 3.8px;
@@ -48,8 +48,9 @@ li a {
 }
 
 #logo {
-    width: 25%;
-    height: 100%;
+    margin-left: 0px;
+    width: 150px;
+    height: 50%;
 }
 
 #content {
